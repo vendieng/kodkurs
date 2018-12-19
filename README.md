@@ -2,7 +2,7 @@
 
 Hej och välkommen till [kodkurs](http://kodkurs.se)!
 
-Kodkurs blev till för att [VICTORIA](http://victoriawagman.se) ville kunna fortsätta hjälpa människor att testa på
+Kodkurs blev till för att [Victoria](http://victoriawagman.se) ville kunna fortsätta hjälpa människor att testa på
 och komma igång med programmering utan att behöva närvara och uprepa samma sak igen och igen. en person kan bara träffa så
 måmga människor under sin livstid. Du kan fortfarande träffa Victoria i Uppsala genom meetupgruppen Women coding Uppsala, där nya deltagare som aldrig kpdat
 förut lan komma igång med hjälp av kodkurs.se.
