@@ -3,9 +3,7 @@
 Hej och välkommen till [kodkurs](http://kodkurs.se)!
 
 Kodkurs blev till för att [Victoria](http://victoriawagman.se) ville kunna fortsätta hjälpa människor att testa på
-och komma igång med programmering utan att behöva närvara och uprepa samma sak igen och igen. en person kan bara träffa så
-måmga människor under sin livstid. Du kan fortfarande träffa Victoria i Uppsala genom meetupgruppen Women coding Uppsala, där nya deltagare som aldrig kpdat
-förut lan komma igång med hjälp av kodkurs.se.
+och komma igång med programmering utan att behöva närvara och uprepa samma sak igen och igen. En person hinner bara träffa så många människor under sin livstid. Du kan fortfarande träffa Victoria i Uppsala genom meetupgruppen [Women coding Uppsala](https://www.meetup.com/Uppsala-women-coding-beginners-welcome/), där nya deltagare som aldrig kodat förut kan komma igång med hjälp av kodkurs.se.
 
 Drömmen är att det finns en omfattande resursbank på svenska för alla som vill testa på och vidareutveckla sina kunskaper inom programmering, oavsett om det gäller hemsidebyggande, styra små robotar eller andra lösningar.
 
