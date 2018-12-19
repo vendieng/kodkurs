@@ -2,6 +2,11 @@
 
 Hej och välkommen till [kodkurs](http://kodkurs.se)!
 
+Kodkurs blev till för att [VICTORIA](http://victoriawagman.se) ville kunna fortsätta hjälpa människor att testa på
+och komma igång med programmering utan att behöva närvara och uprepa samma sak igen och igen. en person kan bara träffa så
+måmga människor under sin livstid. Du kan fortfarande träffa Victoria i Uppsala genom meetupgruppen Women coding Uppsala, där nya deltagare som aldrig kpdat
+förut lan komma igång med hjälp av kodkurs.se.
+
 Drömmen är att det finns en omfattande resursbank på svenska för alla som vill testa på och vidareutveckla sina kunskaper inom programmering, oavsett om det gäller hemsidebyggande, styra små robotar eller andra lösningar.
 
 Det handlar om att tillgängliggöra kunskap. Särskilt viktigt när det gäller kompetens kring att publicera och skapa på webben eftersom det idag är ett så relevant verktyg för kommunikation. Ytterligare en dröm är att fler människor med olika bakgrund och drömmar kommer åt och förstår de digitala verktyg som finns för att skapa lösningar som hjälper fler i många olika faser i livet.
@@ -26,15 +31,6 @@ Ingenting är hugget i sten men försök följa den struktur som finns eller fö
 
 Även material som börjar som en enkel punktlista är av värde! Allt material utvecklas lite i taget och även om du lägger till något som känns otillräckligt så möjliggör fy för någon annan att lära sig och hjälpa till genom att putsa på och förbättra det som finns.
 
-Lägga till video:
-Du kan välja om det ska postas på Kodkurskanalen på youtube.
-
 
 
 // Victoria
-
-
-
-## Att göra
-[ ] Starta upp grupp på open collective kanske
-[ ] Skapa upp en kodkurskanal på youtube.
